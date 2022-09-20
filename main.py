@@ -1,6 +1,6 @@
 contacts = []
 
-while True:
+while False:
     ch = input("""Enter a choice:
     0: exit
     1=>new
